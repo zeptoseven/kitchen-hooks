@@ -1,5 +1,3 @@
-# kitchen-hooks
-A fun, unique, and easy to understand kitchen analogy for React Hooks.
 # React Hooks Explained: The Kitchen Crew 🍳
 
 Imagine your React app is a kitchen, and you're the chef cooking up a delicious app (or recipe). To make your cooking efficient, you have three helpers in the kitchen: **useEffect**, **useMemo**, and **useCallback**. Let’s meet them!
